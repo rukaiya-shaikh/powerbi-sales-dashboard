@@ -44,7 +44,7 @@ The following business KPIs were created using DAX:
 - Business Analytics
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Power BI sales dashboard.png)
 
 ## Business Insights
 This dashboard allows stakeholders to:
