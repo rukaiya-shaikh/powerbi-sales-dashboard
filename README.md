@@ -46,6 +46,9 @@ The following business KPIs were created using DAX:
 ## Dashboard Preview
 ![Dashboard](screenshots/Power BI sales dashboard.png)
 
+> Note: The `.pbix` file needs to be downloaded and opened in Power BI Desktop to view the interactive dashboard.
+
+
 ## Business Insights
 This dashboard allows stakeholders to:
 - Track overall sales and profitability
